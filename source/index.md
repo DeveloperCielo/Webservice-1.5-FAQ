@@ -2,7 +2,7 @@
 title: Perguntas frequentes
 
 toc_footers:
-  - <a href='/Webservice-1.5'>Manual de integração com o Webservice 1.5</a>
+  - <a href='/Webservice-1.5/'>Integração Webservice 1.5</a>
   - <a href='/Webservice-1.5-Processamento-em-lote/'>Processamento em lote</a>
 
 search: true
